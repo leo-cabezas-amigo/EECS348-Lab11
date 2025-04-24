@@ -1,0 +1,38 @@
+body {
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-color: #ffff99;
+    text-align: justify;
+    font-size: 33px;
+}
+
+h1 {
+    font-style: bold;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    padding: 16px;
+    margin: 33px auto;
+    width: 88%;
+    border: 6px solid black;
+}
+
+.center_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center_text {
+  text-align: center;
+}
+
+.button_text {
+  text-align: center;
+  font-size: 33px;
+}
